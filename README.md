@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quantum-Bash.
+- 👋 Hi, I’m @Zamarakam.
 - 👀 I’m interested in Linux and Python.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing.
